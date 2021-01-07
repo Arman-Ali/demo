@@ -1,4 +1,8 @@
 {
+  "user": [
+    { "id": 1, "userName": "Arman" },
+    { "id": 2, "userName": "Sam" }
+  ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
