@@ -8,12 +8,7 @@
     { "id": 2, "title": "SEO CONSULTANT", "company": "Vipro India Pvt Ltd", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000},
     { "id": 3, "title": "WEB ANALYTICS DEVELOPER", "company": "Indian Oil Corporation", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 ,
     { "id": 4, "title": "DIGITAL MARKETING MANAGER", "company": "State Bank of India", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
-    { "id": 5, "title": "SOCIAL MEDIA MANAGER", "company": "Bharat Petroleum", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000},
-    { "id": 6, "title": "GROWTH HACKER", "company": "Action Group", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
-    { "id": 7, "title": "CONTENT MANAGER", "company": "Adani Group", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
-    { "id": 8, "title": "CONTENT STRATEGIST", "company": "Aditya Birla Group", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000},
-    { "id": 9, "title": "INFORMATION ARCHITECT", "company": "Axis Bank", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
-    { "id": 10, "title": "UX DESIGNER", "company": "Bajaj Auto", "expStart": 2, "expEnd": 4, "payStart": 12000, "payEnd": 200000 }
+    { "id": 5, "title": "SOCIAL MEDIA MANAGER", "company": "Bharat Petroleum", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
