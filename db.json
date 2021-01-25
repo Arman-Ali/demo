@@ -3,10 +3,37 @@
     { "id": 1, "userName": "Arman" },
     { "id": 2, "userName": "Sam" }
   ],
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "jobpost": [
+    { "id": 1, "title": "MARKETING TECHNOLOGIST", "company": "Reliance Industries", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 2, "title": "SEO CONSULTANT", "company": "Vipro India Pvt Ltd", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000},
+    { "id": 3, "title": "WEB ANALYTICS DEVELOPER", "company": "Indian Oil Corporation", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 4, "title": "DIGITAL MARKETING MANAGER", "company": "State Bank of India", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 5, "title": "SOCIAL MEDIA MANAGER", "company": "Bharat Petroleum", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000},
+    { "id": 6, "title": "GROWTH HACKER", "company": "Action Group", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 7, "title": "CONTENT MANAGER", "company": "Adani Group", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 8, "title": "CONTENT STRATEGIST", "company": "Aditya Birla Group", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000},
+    { "id": 9, "title": "INFORMATION ARCHITECT", "company": "Axis Bank", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 10, "title": "UX DESIGNER", "company": "Bajaj Auto", "expStart": 2, "expEnd": 4, "payStart": 12000, "payEnd": 200000 },
+    { "id": 11, "title": "ACCESSIBILITY SPECIALIST", "company": "Cosmic Circuits", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000},
+    { "id": 12, "title": "INTERACTION DESIGNER", "company": "Crompton Greaves", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 13, "title": "FRONT-END DESIGNER", "company": "Cyient", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 14, "title": "FRONT-END DEVELOPER", "company": "Dabur", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000},
+    { "id": 15, "title": "MOBILE DEVELOPER", "company": "Emami", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 16, "title": "FULL-STACK DEVELOPER", "company": "Essel Group", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 17, "title": "SOFTWARE DEVELOPERS", "company": "Exide Industries", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000},
+    { "id": 18, "title": "WORDPRESS DEVELOPER", "company": "Farida Group", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 19, "title": "FRAMEWORKS SPECIALIST", "company": "Flipkart", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 20, "title": "PYTHON DEVELOPER", "company": "Force Motors", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000},
+    { "id": 21, "title": "BUSINESS SYSTEMS ANALYST", "company": "GAIL", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 22, "title": "SYSTEMS ENGINEER", "company": "Godrej Group", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 23, "title": "DATABASE ADMINISTRATOR", "company": "Havells", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000},
+    { "id": 24, "title": "DATA ARCHITECT", "company": "HCL Technologies", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 }
+    { "id": 25, "title": "DATA MODELER", "company": "HDFC Bank", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 26, "title": "DATA ANALYST", "company": "Hero MotoCorp", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000},
+    { "id": 27, "title": "DATA SCIENTIST", "company": "Hindalco Industries", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 28, "title": "TECHNICAL LEAD", "company": "Indiabulls", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 },
+    { "id": 29, "title": "DEVOPS MANAGER", "company": "Infosys", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000},
+    { "id": 30, "title": "GAME DEVELOPER", "company": "MakeMyTrip", "expStart": 2, "expEnd": 4, "payStart": 120000, "payEnd": 200000 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
